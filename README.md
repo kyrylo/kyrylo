@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+That's how it all started.
+
+Right here, on GitHub, my career took a pivot from zero to becoming someone.
+
+Not as a part of their team, but as an individual open-source collaborator.
+
+To skip all the details, I'll tell you that...
+
+I am working on [Synonym Sprint](https://synonymsprint.com), a mobile app for learning new English words. I use Rails and Turbo Native.
+
 <!--
 **kyrylo/kyrylo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
