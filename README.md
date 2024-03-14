@@ -8,7 +8,10 @@ Not as a part of their team, but as an individual open-source collaborator.
 
 To skip all the details, I'll tell you that...
 
-I am working on 🍵 [Matcharoo](https://matcharoo.app), a word-matching game where you can learn related words in a fun way. I use Rails and Turbo Native.
+I am working on these projects:
+
+- ☕️ [Coffee World Rush](https://coffeeworldrush.com) (track coffee intake)
+- 🍵 [Matcharoo](https://matcharoo.app) (learn new words)
 
 <!--
 **kyrylo/kyrylo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
