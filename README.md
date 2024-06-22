@@ -1,29 +1,11 @@
-### Hi there 👋
+## Hey there 👋
 
-That's how it all started.
+I've had my fair share of ups and downs in the professional world. Getting laid off not once, but twice within a few months was a wake-up call. It made me realize that I want to be the captain of my own ship.
 
-Right here, on GitHub, my career took a pivot from zero to becoming someone.
+### I am hacking on these projects:
 
-Not as a part of their team, but as an individual open-source collaborator.
+- 🐛 [Telebugs](https://telebugs.com) &middot; track errors
+- ☕️ [Coffee World Rush](https://coffeeworldrush.com) &middot; drink coffee
+- 🍵 [Matcharoo](https://matcharoo.app) &middot; learn words
 
-To skip all the details, I'll tell you that...
-
-I am working on these projects:
-
-- ☕️ [Coffee World Rush](https://coffeeworldrush.com) (track coffee intake)
-- 🍵 [Matcharoo](https://matcharoo.app) (learn new words)
-
-<!--
-**kyrylo/kyrylo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I post on X daily about my journey: [@kyrylosilin](https://x.com/kyrylosilin)
