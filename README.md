@@ -1,12 +1,27 @@
 ## Hey there 👋
 
-I've had my fair share of ups and downs in the professional world. Getting laid off not once, but twice within a few months was a wake-up call. It made me realize that I want to be the captain of my own ship.
+I'm Kyrylo, the creator of [Telebugs](https://telebugs.com).
 
-### I am hacking on these projects:
+Error monitoring tools are essential for developers to catch and fix bugs before they reach users.
 
-- 🦋 [Telebugs](https://telebugs.com) &middot; track errors
+I'm no stranger to this problem. I've been an intern at Bugsnag, and I've worked for years at Airbrake.<br>
+I've seen it all firsthand.
+
+However, many popular tools have become **bloated** over the years. As a result, they have become **expensive** and hard to use.
+
+That's why I created Telebugs.
+
+I've always had a vision for a simple, reliable, and affordable error monitoring tool that focuses on the essentials. **Telebugs is the realization of that vision**.
+
+As a Telegram user for over 10 years, I know how **powerful and reliable** the platform is. That's why I chose Telegram as the foundation for Telebugs.
+
+I'm excited to share [Telebugs](https://telebugs.com) with you. I hope you'll find it as useful as I do.
+
+Best regards,<br>
+Kyrylo ([@kyrylosilin](https://x.com/kyrylosilin))
+
+### Other projects that I'm hacking on:
+
 - 🏳️ [Flag Match](https://flagmatch.com) &middot; learn flags
 - ☕️ [Coffee World Rush](https://coffeeworldrush.com) &middot; drink coffee
-- 🍵 [Matcharoo](https://matcharoo.app) &middot; learn words
-
-I post on X daily about my journey: [@kyrylosilin](https://x.com/kyrylosilin)
+- 🍵 [Matcharoo](https://matcharoo.app) &middot; learn words (on hiatus)
