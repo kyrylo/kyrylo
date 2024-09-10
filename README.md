@@ -18,7 +18,8 @@ As a Telegram user for over 10 years, I know how **powerful and reliable** the p
 I'm excited to share [Telebugs](https://telebugs.com) with you. I hope you'll find it as useful as I do.
 
 Best regards,<br>
-Kyrylo ([@kyrylosilin](https://x.com/kyrylosilin))
+Kyrylo<br>
+[@kyrylosilin](https://x.com/kyrylosilin)
 
 ### Other projects that I'm hacking on:
 
