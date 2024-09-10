@@ -4,7 +4,7 @@ I'm Kyrylo, the creator of [Telebugs](https://telebugs.com).
 
 Error monitoring tools are essential for developers to catch and fix bugs before they reach users.
 
-I'm no stranger to this problem. I've been an intern at [Bugsnag](https://github.com/bugsnag/bugsnag-ruby/commits?author=kyrylo), and I've worked for years at [Airbrake](https://github.com/airbrake/airbrake-ruby/commits?author=kyrylo).<br>
+I'm no stranger to this problem. I've been an [intern at Bugsnag](https://github.com/bugsnag/bugsnag-ruby/commits?author=kyrylo), and I've [worked for years at Airbrake](https://github.com/airbrake/airbrake-ruby/commits?author=kyrylo).<br>
 I've seen it all firsthand.
 
 However, many popular tools have become **bloated** over the years. As a result, they have become **expensive** and hard to use.
