@@ -1,28 +1,20 @@
 ## Hey there 👋
 
-I'm Kyrylo, the creator of [Telebugs](https://telebugs.com).
+I'm Kyrylo—a software engineer, web developer, and budding entrepreneur.
 
-Error tracking tools are essential for developers to catch and fix bugs before they reach users.
+I work on [Telebugs](https://telebugs.com), a refreshingly simple, self-hosted error tracker and a subscription-free alternative to Sentry.
 
-I'm no stranger to this problem. I've been an [intern at Bugsnag](https://github.com/bugsnag/bugsnag-ruby/commits?author=kyrylo), and I've [worked for years at Airbrake](https://github.com/airbrake/airbrake-ruby/commits?author=kyrylo).<br>
-I've seen it all firsthand.
+I post about it (and my other projects) regularly.
 
-However, many popular tools have become **bloated** over the years. As a result, they have become **expensive** and hard to use.
+Find me online:
 
-That's why I created Telebugs.
-
-I've always had a vision for a simple, reliable, and affordable error tracking tool that focuses on the essentials. **Telebugs is the realization of that vision**.
-
-As a Telegram user for over 10 years, I know how **powerful and reliable** the platform is. That's why I chose Telegram as the foundation for Telebugs.
-
-I'm excited to share [Telebugs](https://telebugs.com) with you. I hope you'll find it as useful as I do.
-
-Best regards,<br>
-Kyrylo<br>
-[@kyrylosilin](https://x.com/kyrylosilin)
+- Home: https://kyrylo.org
+- X - [@kyrylosilin](https://x.com/kyrylosilin)
+- Bluesky: [@kyrylo.org](https://bsky.app/profile/kyrylo.org)
 
 ### Other projects that I'm hacking on:
 
-- 🏳️ [Flag Match](https://flagmatch.com) &middot; learn flags
-- ☕️ [Coffee World Rush](https://coffeeworldrush.com) &middot; drink coffee
-- 🍵 [Matcharoo](https://matcharoo.app) &middot; learn words (on hiatus)
+- [We Use Rails](https://weuserails.com) - Discover companies using Ruby on Rails
+- [Flag Match](https://flagmatch.com) - Guess the flags of all the countries in the world
+- [Coffee World Rush](https://coffeeworldrush.com) - Drink coffee for your country
+- [Matcharoo](https://matcharoo.app)- Learn English synonyms (inactive)
