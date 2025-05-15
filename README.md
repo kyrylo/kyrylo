@@ -15,7 +15,7 @@ Find me online:
 
 ### Other projects that I'm hacking on:
 
-- [Just Fucking Use HTML](https://justfuckingusehtml.com) - My take on complexity in modern web development.
+- [Just **** Use HTML](https://justfuckingusehtml.com) - Seriously, just use it
 - [We Use Rails](https://weuserails.com) - Discover companies using Ruby on Rails
 - [Flag Match](https://flagmatch.com) - Guess the flags of all the countries in the world
 - [Coffee World Rush](https://coffeeworldrush.com) - Drink coffee for your country
