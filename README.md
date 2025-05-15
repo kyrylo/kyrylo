@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Kyrylo — a software engineer, web developer, and budding entrepreneur.
+I'm a software engineer, web developer, and budding entrepreneur.
 
 I work on [Telebugs](https://telebugs.com), a lightweight, self-hosted Sentry alternative without a subscription.
 
