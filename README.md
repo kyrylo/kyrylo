@@ -15,6 +15,7 @@ Find me online:
 
 ### Other projects that I'm hacking on:
 
+- [The Em Dash](https://the-em-dash.com) - Supercharging your game-changing posts and comments since 2022.
 - [Just **** Use HTML](https://justfuckingusehtml.com) - My take on complexity in modern web development.
 - [Docker Name Generator](https://dockernamegenerator.com) - Generate random Docker container-style names for any purpose.
 - [We Use Rails](https://weuserails.com) - Discover companies using Ruby on Rails.
