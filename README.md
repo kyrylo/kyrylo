@@ -16,6 +16,7 @@ Find me online:
 
 ### Other projects that I'm hacking on:
 
+- [Tech Debt](https://techdebtgame.com) - A fast-paced, keyboard-driven text game where you work to launch a bug-free programming language before the looming '95 WEBFEST deadline.
 - [The Em Dash](https://the-em-dash.com) - Supercharging your game-changing posts and comments since 2022.
 - [Just **** Use HTML](https://justfuckingusehtml.com) - My take on complexity in modern web development.
 - [Docker Name Generator](https://dockernamegenerator.com) - Generate random Docker container-style names for any purpose.
