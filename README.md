@@ -12,7 +12,6 @@ Find me online:
 - X - [@kyrylosilin](https://x.com/kyrylosilin)
 - Bluesky: [@kyrylo.org](https://bsky.app/profile/kyrylo.org)
 - Mastodon: [@kyrylosilin](https://mastodon.social/@kyrylosilin)
-- Threads: [@kyrylo.silin](https://www.threads.com/@kyrylo.silin)</li>
 
 ### Other projects that I'm hacking on:
 
