@@ -2,11 +2,7 @@
 
 I'm a software engineer, web developer, and entrepreneur.
 
-I work on [Telebugs](https://telebugs.com), a lightweight, self-hosted Sentry alternative without a subscription.
-
-I post about it (and my other projects) regularly.
-
-Find me online:
+I work on [Telebugs](https://telebugs.com). It's a self-hosted Sentry alternative for error tracking that I post about (and my other projects) regularly. Find me online:
 
 - Home: https://kyrylo.org
 - X - [@kyrylosilin](https://x.com/kyrylosilin)
