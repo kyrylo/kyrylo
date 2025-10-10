@@ -11,3 +11,11 @@ Find me online:
 - Bluesky: [@kyrylo.org](https://bsky.app/profile/kyrylo.org)
 - Mastodon: [@kyrylosilin](https://mastodon.social/@kyrylosilin)
 - Ruby Social: [@kyrylo](https://ruby.social/@kyrylo)
+
+<hr>
+
+My other projects:
+
+- [emojiwhat.com](https://emojiwhat.com)
+- [flagmatch.com](https://flagmatch.com)
+- [weuserails.com](https://weuserails.com)
