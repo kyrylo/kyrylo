@@ -7,7 +7,7 @@ I work on [Telebugs](https://telebugs.com). It's a self-hosted Sentry alternativ
 Find me online:
 
 - Home page: https://kyrylo.org
-- X - [@kyrylosilin](https://x.com/kyrylosilin)
+- X - [@kyrylo](https://x.com/kyrylo)
 - Bluesky: [@kyrylo.org](https://bsky.app/profile/kyrylo.org)
 - Mastodon: [@kyrylosilin](https://mastodon.social/@kyrylosilin)
 - Ruby Social: [@kyrylo](https://ruby.social/@kyrylo)
