@@ -16,6 +16,5 @@ Find me online:
 
 My other projects:
 
-- [emojiwhat.com](https://emojiwhat.com)
-- [flagmatch.com](https://flagmatch.com)
+- [telesink.com](https://telesink.com)
 - [weuserails.com](https://weuserails.com)
