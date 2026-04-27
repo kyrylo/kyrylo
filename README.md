@@ -8,7 +8,6 @@ Find me online:
 - 𝕏 - [@kyrylo](https://x.com/kyrylo)
 - Bluesky: [@kyrylo.org](https://bsky.app/profile/kyrylo.org)
 - Mastodon: [@kyrylosilin](https://mastodon.social/@kyrylosilin)
-- Ruby Social: [@kyrylo](https://ruby.social/@kyrylo)
 
 <hr>
 
