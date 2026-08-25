@@ -14,5 +14,4 @@ Find me online:
 My notable projects:
 
 - [telebugs.com](https://telebugs.com) - self-hosted Sentry alternative for error
-- [telesink.com](https://telesink.com) - open source real-time event tracker
 - [weuserails.com](https://weuserails.com) - a directory of Rails apps
