@@ -13,4 +13,3 @@ Find me online:
 My notable projects:
 
 - [telebugs.com](https://telebugs.com) - self-hosted error tracking without the Sentry stack
-- [weuserails.com](https://weuserails.com) - a directory of Rails apps
